@@ -9,4 +9,4 @@
 - 💬 Ask me about jobs or projects like: ....
 - 📫 You can reach me via [email](mailto:cuongcnb@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vunb&layout=compact)](https://github.com/vunb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongcnb&layout=compact)](https://github.com/cuongcnb)
